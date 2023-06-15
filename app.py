@@ -1,5 +1,5 @@
- # This multiple choice test contains 3 NBA related questions that test your history of the game
-
+ # This multiple choice quiz contains 3 NBA related questions that test your history of the game
+ # To pass the quiz, you must answer all three questions correctly
 
 from quiz import Question
 
