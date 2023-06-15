@@ -4,13 +4,13 @@
 from quiz import Question
 
 question_prompts = [
-    "What year was the game of basketball invented?\n(a) Bob Cousy\n(b) James Naismith\n(c) Jerry Naismith",
+    "What year was the game of basketball invented?\n(a) 1891\n(b) 1908\n(c) 1999",
     "Which player has scored the most points in NBA History?\n(a) Michael Jordan\n(b) LeBron James\n(c) Kareem Abdul-Jabbar\n(d) Kobe Bryant",
     "Which team has the most NBA championships?\n(a) Lakers\n(b) Celtics\n(c) Bulls\n(d) Lakers and Celtics are both tied for 17 championships"
 ]
 
 questions = [
-    Question(question_prompts[0], "b"),
+    Question(question_prompts[0], "a"),
     Question(question_prompts[1], "b"),
     Question(question_prompts[2], "d"),
 ]
